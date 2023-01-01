@@ -1,0 +1,33 @@
+.date {
+  position: relative;
+}
+.calender {
+  position: absolute;
+  top: 50%;
+  left: 5px;
+  width: 16px;
+  transform: translateY(-50%);
+}
+
+.dateInput {
+  padding-left: 30px;
+  padding-top: 3px;
+  padding-bottom: 4px;
+  opacity: 0.4;
+  font-size: 0.9rem;
+  width: 150px;
+  border-radius: 0.2rem;
+}
+
+.dateIn{
+  padding-left: 30px;
+  padding-top: 3px;
+  padding-bottom: 4px;
+  opacity: 0.4;
+  font-size: 0.9rem;
+  width: 150px;
+  border-radius: 0.2rem;
+}
+.datestime{
+  display: flex;
+}

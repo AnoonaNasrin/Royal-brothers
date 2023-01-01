@@ -1,0 +1,25 @@
+.card-main {
+  width: 331.5px;
+  object-fit: cover;
+  min-height: 312px;
+  background-color: #f7fafc;
+}
+.card-two {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1.1rem;
+  margin-top:1rem;
+  
+}
+.button-card {
+  width: 100%;
+  text-align: center;
+  background: #fed250;
+}
+
+.card-two img {
+  width: 192px;
+  height: 127.5px;
+}

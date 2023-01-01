@@ -1,0 +1,88 @@
+header{
+    width: 100vw;
+
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.3rem -0.6rem;
+  box-shadow: 0 3px 6px 0 rgb(0 0 0 / 15%);
+  background-color: #fff;
+  width: 100%;
+  position: fixed;
+  z-index: 2;
+
+}
+.content-one {
+  display: flex;
+  gap: 3.5rem;
+}
+
+.menu-bar {
+  display: flex;
+  align-items: center;
+}
+.side-menu {
+  width: 1.5rem;
+}
+.logo {
+  height: 3rem;
+}
+.nav-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: all 0.1 linear;
+  padding: 1rem 1.5rem;
+}
+.nav-item:hover {
+  background: #fed250;
+}
+.nav-items {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+.nav-img {
+  width: 4rem;
+}
+
+.content-two {
+  display: flex;
+  justify-content: space-between;
+  gap: 3rem;
+}
+.location {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  border: 0.125rem solid #fed250;
+  border-radius: 0.3rem;
+  padding: 0.2rem 2rem;
+  transition: all 0.3s linear;
+}
+.location:hover {
+  background-color: #fed250;
+}
+.royal-button {
+  background-color: #fed250;
+  border: none;
+  padding: 0.4rem 1rem;
+  border-radius: 0.3rem;
+  height: 2.7rem;
+}
+.login-btn {
+  background: none;
+  border-radius: 0;
+}
+.login-btn:hover {
+  background: #666;
+  opacity: 0.5;
+}
+.authentication {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
