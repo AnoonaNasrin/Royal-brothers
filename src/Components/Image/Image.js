@@ -12,14 +12,15 @@ const slideImages = [
   },
   {
     url: "https://d36g7qg6pk2cm7.cloudfront.net/assets/icons/slide-two-2d63ed83b9f2b4003344ac868bb2a42d29efe841bb2c5894ac53bd6af85adb86.jpg",
-    heading: "Hello",
-    caption: "fasdfdasfasdfsdafsda fsda fsdaf dasfasdfsdafsdafdsa:",
+    heading: "Ready to serve you in 40+ cities!",
+    caption:
+      "Think of a city & we are mostly there. The next time you plan on exploring a city, know that your means of transport is sorted with Royal Brothers.",
   },
   {
     url: "https://d36g7qg6pk2cm7.cloudfront.net/assets/icons/slide-three-a8787ad27e9ea8ab39d164f233b0995c76d59c4a517c0313e11a4122d6309038.jpg",
-    heading: "fasdf",
+    heading: "Bikes maintained so good, Bikes maintained so good,",
     caption:
-      "fdaswfasd fsdafd safdsafdsafsdafdasfdasfsdafdasfdsf ds fsdaf dsa f",
+      "We obsess on giving you the best possible experience. This is not only with well serviced bikes but also with a 24/7 support team available just a call away.",
   },
 ];
 export default function Image() {
