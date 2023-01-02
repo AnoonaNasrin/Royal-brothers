@@ -1,0 +1,24 @@
+.custom-slide {
+  position: relative;
+}
+
+.image-content {
+  position: absolute;
+  top: 50%;
+  z-index: 1;
+  left: 5%;
+  width: 28rem;
+}
+
+.image-heading {
+  font-weight: 700;
+  font-size: 1.6rem;
+}
+
+.image-caption {
+  font-size: 1.1rem;
+}
+
+button.nav {
+  opacity: 0;
+}
